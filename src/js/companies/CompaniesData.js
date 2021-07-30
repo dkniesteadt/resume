@@ -3,13 +3,15 @@
         "image": "https://resume-web-dk.s3.us-east-2.amazonaws.com/iovationLogo.png",
         "date":"2017-Present",
         "list": [
-            "Created a Rest Service to replace a Soap service",
-            "Created a Proxy to convert Soap calls to Rest Calls",
-            "Moved Services to Kubernetes",
-            "Made additions to a React UI website",
-            "Helped the Company move to the Safe Agile Project Model"
+            "Deployed a Rest Service to replace a Soap service",
+            "Built a Proxy to convert Soap calls to Rest Calls",
+            "Created API services to processing mass amount of data from our customers.",
+            "Converted all API services to utilize the power of Kubernetes and Docker.",
+            "Certified in the Safe Agile Practice",
+            "Gained Exposure to Ci/Cd pipeline",
+            "Developed Dashboard using Grafana and Prometheus to monitor our services."
         ],
-        "languages": "Java, Spring, React, Postgres, Docker, Kubernetes"
+        "languages": "Spring Boot, Java 8/11, Docker, Kubernetes, postgresSQL, Puppet, Jenkins, Grafana, Prometheus, IntelliJ, Rally, Jira, Bitbucket, Confluence"
     },
     {
         "image":"https://resume-web-dk.s3.us-east-2.amazonaws.com/DATLogo.jpg",
@@ -36,7 +38,7 @@
             "Modified and redesigned Java API’s to fit customers needs.",
             "Worked with other teams to integrated their products with common APIs"
         ],
-        "languages": "JavaScript, HTML, Java, Spring, Gemfire, Docker, NodeJS, Grunt, Selenium, Jasmine"
+        "languages": "Spring Boot, Java 8, oracleDB, Grafana, Prometheus, Eclipes, jira/bitbucket, AngularJs, Javascript, GemFire, Dockere, NodeJS, Grunt, Selenium, Jasmine"
     }
 ]
 export default data;

@@ -1,5 +1,4 @@
 import React from 'react'
-import georgeFox from "../assets/photos/georgefox.jpg"
 
 export const School = () => {
     return (
@@ -11,10 +10,10 @@ export const School = () => {
           </div>
           <div className="row">
             <div className="col m2 center">
-              <img style={{width: '120px'}} src={georgeFox} className="george-fox-logo center" />
+              <img style={{width: '120px'}} src="https://resume-web-dk.s3.us-east-2.amazonaws.com/georgefox.jpg" className="george-fox-logo center" />
             </div>
             <div className="col s10">
-              <span>George Fox University</span> 
+              <span>George Fox University</span>
               <span className="right"> 2010-2014</span>
               <br />
               <span>Computer Science, B.S.</span>
