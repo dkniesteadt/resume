@@ -16,9 +16,9 @@ export const Header = ({title="No Title Provided", author= "No Author", pages=0,
               <a className="rsvp" href="mailto:dugankniesteadt@gmail.com">Contact</a>
             </li>
             <li>
-              <a target="_self" href={resume} download="Resume.docx">Download Source Code</a>
+              <a href="https://github.com/dkniesteadt/resume" >Git Repository</a>
             </li>
-          </ul> 
+          </ul>
         </nav>
 	)
 }
